@@ -1,0 +1,251 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Kuba\\Desktop\\eAutoSerwis\\UAIM_2023L_Projekt1_Gradziel_Kosacki_Pietrzak_Szwed\\Psgk.CarInspect.CarDataUSvc\\Psgk.CarInspect.CarDataUSvc.RestSvc\\Psgk.CarInspect.CarDataUSvc.RestSvc.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Kuba\\Desktop\\eAutoSerwis\\UAIM_2023L_Projekt1_Gradziel_Kosacki_Pietrzak_Szwed\\Psgk.CarInspect.CarDataUSvc\\Psgk.CarInspect.CarDataUSvc.Logic\\Psgk.CarInspect.CarDataUSvc.Logic.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Kuba\\Desktop\\eAutoSerwis\\UAIM_2023L_Projekt1_Gradziel_Kosacki_Pietrzak_Szwed\\Psgk.CarInspect.CarDataUSvc\\Psgk.CarInspect.CarDataUSvc.Logic\\Psgk.CarInspect.CarDataUSvc.Logic.csproj",
+        "projectName": "Psgk.CarInspect.CarDataUSvc.Logic",
+        "projectPath": "C:\\Users\\Kuba\\Desktop\\eAutoSerwis\\UAIM_2023L_Projekt1_Gradziel_Kosacki_Pietrzak_Szwed\\Psgk.CarInspect.CarDataUSvc\\Psgk.CarInspect.CarDataUSvc.Logic\\Psgk.CarInspect.CarDataUSvc.Logic.csproj",
+        "packagesPath": "C:\\Users\\Kuba\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Kuba\\Desktop\\eAutoSerwis\\UAIM_2023L_Projekt1_Gradziel_Kosacki_Pietrzak_Szwed\\Psgk.CarInspect.CarDataUSvc\\Psgk.CarInspect.CarDataUSvc.Logic\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Kuba\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\Kuba\\Desktop\\eAutoSerwis\\UAIM_2023L_Projekt1_Gradziel_Kosacki_Pietrzak_Szwed\\Psgk.CarInspect.CarDataUSvc\\Psgk.CarInspect.CarDataUSvc.Model\\Psgk.CarInspect.CarDataUSvc.Model.csproj": {
+                "projectPath": "C:\\Users\\Kuba\\Desktop\\eAutoSerwis\\UAIM_2023L_Projekt1_Gradziel_Kosacki_Pietrzak_Szwed\\Psgk.CarInspect.CarDataUSvc\\Psgk.CarInspect.CarDataUSvc.Model\\Psgk.CarInspect.CarDataUSvc.Model.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Kuba\\Desktop\\eAutoSerwis\\UAIM_2023L_Projekt1_Gradziel_Kosacki_Pietrzak_Szwed\\Psgk.CarInspect.CarDataUSvc\\Psgk.CarInspect.CarDataUSvc.Model\\Psgk.CarInspect.CarDataUSvc.Model.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Kuba\\Desktop\\eAutoSerwis\\UAIM_2023L_Projekt1_Gradziel_Kosacki_Pietrzak_Szwed\\Psgk.CarInspect.CarDataUSvc\\Psgk.CarInspect.CarDataUSvc.Model\\Psgk.CarInspect.CarDataUSvc.Model.csproj",
+        "projectName": "Psgk.CarInspect.CarDataUSvc.Model",
+        "projectPath": "C:\\Users\\Kuba\\Desktop\\eAutoSerwis\\UAIM_2023L_Projekt1_Gradziel_Kosacki_Pietrzak_Szwed\\Psgk.CarInspect.CarDataUSvc\\Psgk.CarInspect.CarDataUSvc.Model\\Psgk.CarInspect.CarDataUSvc.Model.csproj",
+        "packagesPath": "C:\\Users\\Kuba\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Kuba\\Desktop\\eAutoSerwis\\UAIM_2023L_Projekt1_Gradziel_Kosacki_Pietrzak_Szwed\\Psgk.CarInspect.CarDataUSvc\\Psgk.CarInspect.CarDataUSvc.Model\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Kuba\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Kuba\\Desktop\\eAutoSerwis\\UAIM_2023L_Projekt1_Gradziel_Kosacki_Pietrzak_Szwed\\Psgk.CarInspect.CarDataUSvc\\Psgk.CarInspect.CarDataUSvc.RestModel\\Psgk.CarInspect.CarDataUSvc.RestModel.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Kuba\\Desktop\\eAutoSerwis\\UAIM_2023L_Projekt1_Gradziel_Kosacki_Pietrzak_Szwed\\Psgk.CarInspect.CarDataUSvc\\Psgk.CarInspect.CarDataUSvc.RestModel\\Psgk.CarInspect.CarDataUSvc.RestModel.csproj",
+        "projectName": "Psgk.CarInspect.CarDataUSvc.RestModel",
+        "projectPath": "C:\\Users\\Kuba\\Desktop\\eAutoSerwis\\UAIM_2023L_Projekt1_Gradziel_Kosacki_Pietrzak_Szwed\\Psgk.CarInspect.CarDataUSvc\\Psgk.CarInspect.CarDataUSvc.RestModel\\Psgk.CarInspect.CarDataUSvc.RestModel.csproj",
+        "packagesPath": "C:\\Users\\Kuba\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Kuba\\Desktop\\eAutoSerwis\\UAIM_2023L_Projekt1_Gradziel_Kosacki_Pietrzak_Szwed\\Psgk.CarInspect.CarDataUSvc\\Psgk.CarInspect.CarDataUSvc.RestModel\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Kuba\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Kuba\\Desktop\\eAutoSerwis\\UAIM_2023L_Projekt1_Gradziel_Kosacki_Pietrzak_Szwed\\Psgk.CarInspect.CarDataUSvc\\Psgk.CarInspect.CarDataUSvc.RestSvc\\Psgk.CarInspect.CarDataUSvc.RestSvc.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Kuba\\Desktop\\eAutoSerwis\\UAIM_2023L_Projekt1_Gradziel_Kosacki_Pietrzak_Szwed\\Psgk.CarInspect.CarDataUSvc\\Psgk.CarInspect.CarDataUSvc.RestSvc\\Psgk.CarInspect.CarDataUSvc.RestSvc.csproj",
+        "projectName": "Psgk.CarInspect.CarDataUSvc.RestSvc",
+        "projectPath": "C:\\Users\\Kuba\\Desktop\\eAutoSerwis\\UAIM_2023L_Projekt1_Gradziel_Kosacki_Pietrzak_Szwed\\Psgk.CarInspect.CarDataUSvc\\Psgk.CarInspect.CarDataUSvc.RestSvc\\Psgk.CarInspect.CarDataUSvc.RestSvc.csproj",
+        "packagesPath": "C:\\Users\\Kuba\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Kuba\\Desktop\\eAutoSerwis\\UAIM_2023L_Projekt1_Gradziel_Kosacki_Pietrzak_Szwed\\Psgk.CarInspect.CarDataUSvc\\Psgk.CarInspect.CarDataUSvc.RestSvc\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Kuba\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\Kuba\\Desktop\\eAutoSerwis\\UAIM_2023L_Projekt1_Gradziel_Kosacki_Pietrzak_Szwed\\Psgk.CarInspect.CarDataUSvc\\Psgk.CarInspect.CarDataUSvc.Logic\\Psgk.CarInspect.CarDataUSvc.Logic.csproj": {
+                "projectPath": "C:\\Users\\Kuba\\Desktop\\eAutoSerwis\\UAIM_2023L_Projekt1_Gradziel_Kosacki_Pietrzak_Szwed\\Psgk.CarInspect.CarDataUSvc\\Psgk.CarInspect.CarDataUSvc.Logic\\Psgk.CarInspect.CarDataUSvc.Logic.csproj"
+              },
+              "C:\\Users\\Kuba\\Desktop\\eAutoSerwis\\UAIM_2023L_Projekt1_Gradziel_Kosacki_Pietrzak_Szwed\\Psgk.CarInspect.CarDataUSvc\\Psgk.CarInspect.CarDataUSvc.Model\\Psgk.CarInspect.CarDataUSvc.Model.csproj": {
+                "projectPath": "C:\\Users\\Kuba\\Desktop\\eAutoSerwis\\UAIM_2023L_Projekt1_Gradziel_Kosacki_Pietrzak_Szwed\\Psgk.CarInspect.CarDataUSvc\\Psgk.CarInspect.CarDataUSvc.Model\\Psgk.CarInspect.CarDataUSvc.Model.csproj"
+              },
+              "C:\\Users\\Kuba\\Desktop\\eAutoSerwis\\UAIM_2023L_Projekt1_Gradziel_Kosacki_Pietrzak_Szwed\\Psgk.CarInspect.CarDataUSvc\\Psgk.CarInspect.CarDataUSvc.RestModel\\Psgk.CarInspect.CarDataUSvc.RestModel.csproj": {
+                "projectPath": "C:\\Users\\Kuba\\Desktop\\eAutoSerwis\\UAIM_2023L_Projekt1_Gradziel_Kosacki_Pietrzak_Szwed\\Psgk.CarInspect.CarDataUSvc\\Psgk.CarInspect.CarDataUSvc.RestModel\\Psgk.CarInspect.CarDataUSvc.RestModel.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Swashbuckle.AspNetCore": {
+              "target": "Package",
+              "version": "[6.2.3, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

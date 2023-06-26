@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<services>
+	<service>
+		<id>0</id>
+		<carid>
+			<id>1</id>
+		</carid>
+		<name>Oil Change</name>
+		<price>50</price>
+	</service>
+	<service>
+		<id>1</id>
+		<carid>
+			<id>1</id>
+		</carid>
+		<name>Engine Fix</name>
+		<price>100</price>
+	</service>
+	<service>
+		<id>2</id>
+		<carid>
+			<id>2</id>
+		</carid>
+		<name>Engine switch</name>
+		<price>1000</price>
+	</service>
+	<service>
+		<id>3</id>
+		<carid>
+			<id>3</id>
+		</carid>
+		<name>Engine check</name>
+		<price>100</price>
+	</service>
+	<service>
+		<id>4</id>
+		<carid>
+			<id>5</id>
+			<id>3</id>
+			<id>2</id>
+		</carid>
+		<name>Wheel fix</name>
+		<price>32</price>
+	</service>
+</services>

@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Psgk.CarInspect.ServiceDataUSvc.Logic/1.0.0": {
+        "dependencies": {
+          "Psgk.CarInspect.ServiceDataUSvc.Model": "1.0.0"
+        },
+        "runtime": {
+          "Psgk.CarInspect.ServiceDataUSvc.Logic.dll": {}
+        }
+      },
+      "Psgk.CarInspect.ServiceDataUSvc.Model/1.0.0": {
+        "runtime": {
+          "Psgk.CarInspect.ServiceDataUSvc.Model.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Psgk.CarInspect.ServiceDataUSvc.Logic/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Psgk.CarInspect.ServiceDataUSvc.Model/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

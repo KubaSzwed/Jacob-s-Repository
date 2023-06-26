@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\Psgk.CarInspect.CustomerDataUSvc.WebService.props" />
+</Project>

@@ -1,0 +1,17 @@
+C:\Users\Kuba\Desktop\CustomerUsługaDanych\Psgk.CarInspect.CustomerDataUSvc\Psgk.CarInspect.CustomerDataUSvc.RestClient\bin\Debug\net6.0\Psgk.CarInspect.CustomerDataUSvc.RestClient.deps.json
+C:\Users\Kuba\Desktop\CustomerUsługaDanych\Psgk.CarInspect.CustomerDataUSvc\Psgk.CarInspect.CustomerDataUSvc.RestClient\bin\Debug\net6.0\Psgk.CarInspect.CustomerDataUSvc.RestClient.dll
+C:\Users\Kuba\Desktop\CustomerUsługaDanych\Psgk.CarInspect.CustomerDataUSvc\Psgk.CarInspect.CustomerDataUSvc.RestClient\bin\Debug\net6.0\Psgk.CarInspect.CustomerDataUSvc.RestClient.pdb
+C:\Users\Kuba\Desktop\CustomerUsługaDanych\Psgk.CarInspect.CustomerDataUSvc\Psgk.CarInspect.CustomerDataUSvc.RestClient\bin\Debug\net6.0\Psgk.CarInspect.CustomerDataUSvc.Model.dll
+C:\Users\Kuba\Desktop\CustomerUsługaDanych\Psgk.CarInspect.CustomerDataUSvc\Psgk.CarInspect.CustomerDataUSvc.RestClient\bin\Debug\net6.0\Psgk.CarInspect.CustomerDataUSvc.RestModel.dll
+C:\Users\Kuba\Desktop\CustomerUsługaDanych\Psgk.CarInspect.CustomerDataUSvc\Psgk.CarInspect.CustomerDataUSvc.RestClient\bin\Debug\net6.0\Psgk.CarInspect.CustomerDataUSvc.Model.pdb
+C:\Users\Kuba\Desktop\CustomerUsługaDanych\Psgk.CarInspect.CustomerDataUSvc\Psgk.CarInspect.CustomerDataUSvc.RestClient\bin\Debug\net6.0\Psgk.CarInspect.CustomerDataUSvc.RestModel.pdb
+C:\Users\Kuba\Desktop\CustomerUsługaDanych\Psgk.CarInspect.CustomerDataUSvc\Psgk.CarInspect.CustomerDataUSvc.RestClient\obj\Debug\net6.0\Psgk.CarInspect.CustomerDataUSvc.RestClient.csproj.AssemblyReference.cache
+C:\Users\Kuba\Desktop\CustomerUsługaDanych\Psgk.CarInspect.CustomerDataUSvc\Psgk.CarInspect.CustomerDataUSvc.RestClient\obj\Debug\net6.0\Psgk.CarInspect.CustomerDataUSvc.RestClient.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kuba\Desktop\CustomerUsługaDanych\Psgk.CarInspect.CustomerDataUSvc\Psgk.CarInspect.CustomerDataUSvc.RestClient\obj\Debug\net6.0\Psgk.CarInspect.CustomerDataUSvc.RestClient.AssemblyInfoInputs.cache
+C:\Users\Kuba\Desktop\CustomerUsługaDanych\Psgk.CarInspect.CustomerDataUSvc\Psgk.CarInspect.CustomerDataUSvc.RestClient\obj\Debug\net6.0\Psgk.CarInspect.CustomerDataUSvc.RestClient.AssemblyInfo.cs
+C:\Users\Kuba\Desktop\CustomerUsługaDanych\Psgk.CarInspect.CustomerDataUSvc\Psgk.CarInspect.CustomerDataUSvc.RestClient\obj\Debug\net6.0\Psgk.CarInspect.CustomerDataUSvc.RestClient.csproj.CoreCompileInputs.cache
+C:\Users\Kuba\Desktop\CustomerUsługaDanych\Psgk.CarInspect.CustomerDataUSvc\Psgk.CarInspect.CustomerDataUSvc.RestClient\obj\Debug\net6.0\Psgk.CarInspect.CustomerDataUSvc.RestClient.csproj.CopyComplete
+C:\Users\Kuba\Desktop\CustomerUsługaDanych\Psgk.CarInspect.CustomerDataUSvc\Psgk.CarInspect.CustomerDataUSvc.RestClient\obj\Debug\net6.0\Psgk.CarInspect.CustomerDataUSvc.RestClient.dll
+C:\Users\Kuba\Desktop\CustomerUsługaDanych\Psgk.CarInspect.CustomerDataUSvc\Psgk.CarInspect.CustomerDataUSvc.RestClient\obj\Debug\net6.0\refint\Psgk.CarInspect.CustomerDataUSvc.RestClient.dll
+C:\Users\Kuba\Desktop\CustomerUsługaDanych\Psgk.CarInspect.CustomerDataUSvc\Psgk.CarInspect.CustomerDataUSvc.RestClient\obj\Debug\net6.0\Psgk.CarInspect.CustomerDataUSvc.RestClient.pdb
+C:\Users\Kuba\Desktop\CustomerUsługaDanych\Psgk.CarInspect.CustomerDataUSvc\Psgk.CarInspect.CustomerDataUSvc.RestClient\obj\Debug\net6.0\ref\Psgk.CarInspect.CustomerDataUSvc.RestClient.dll

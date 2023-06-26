@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "tGK4LlRjAc6NFBmeVIp5PWA+b/MEbUYJB0p3ZQc4Ejk=",
+  "Source": "Psgk.CarInspect.ClientAppService.Rest",
+  "BasePath": "_content/Psgk.CarInspect.ClientAppService.Rest",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

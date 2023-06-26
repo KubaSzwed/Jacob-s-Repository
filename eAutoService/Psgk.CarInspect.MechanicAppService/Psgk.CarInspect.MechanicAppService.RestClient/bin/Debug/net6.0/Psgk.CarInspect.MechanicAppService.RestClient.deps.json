@@ -1,0 +1,47 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Psgk.CarInspect.MechanicAppService.RestClient/1.0.0": {
+        "dependencies": {
+          "Psgk.CarInspect.MechanicAppService.Model": "1.0.0",
+          "Psgk.CarInspect.MechanicAppService.RestModel": "1.0.0"
+        },
+        "runtime": {
+          "Psgk.CarInspect.MechanicAppService.RestClient.dll": {}
+        }
+      },
+      "Psgk.CarInspect.MechanicAppService.Model/1.0.0": {
+        "runtime": {
+          "Psgk.CarInspect.MechanicAppService.Model.dll": {}
+        }
+      },
+      "Psgk.CarInspect.MechanicAppService.RestModel/1.0.0": {
+        "runtime": {
+          "Psgk.CarInspect.MechanicAppService.RestModel.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Psgk.CarInspect.MechanicAppService.RestClient/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Psgk.CarInspect.MechanicAppService.Model/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Psgk.CarInspect.MechanicAppService.RestModel/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

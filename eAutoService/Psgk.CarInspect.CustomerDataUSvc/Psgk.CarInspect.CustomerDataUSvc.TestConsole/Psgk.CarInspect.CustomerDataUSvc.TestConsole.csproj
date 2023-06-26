@@ -1,0 +1,15 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Psgk.CarInspect.CustomerDataUSvc.RestClient\Psgk.CarInspect.CustomerDataUSvc.RestClient.csproj" />
+    <ProjectReference Include="..\Psgk.CarInspect.CustomerDataUSvc.RestModel\Psgk.CarInspect.CustomerDataUSvc.RestModel.csproj" />
+  </ItemGroup>
+
+</Project>

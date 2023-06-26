@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Ssga.CarInspect.ClientAppService.Model/1.0.0": {
+        "runtime": {
+          "Ssga.CarInspect.ClientAppService.Model.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Ssga.CarInspect.ClientAppService.Model/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,14 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\Psgk.CarInspect.CarDataUSvc.Model\Psgk.CarInspect.CarDataUSvc.Model.csproj" />
+    <ProjectReference Include="..\Psgk.CarInspect.CarDataUSvc.RestModel\Psgk.CarInspect.CarDataUSvc.RestModel.csproj" />
+  </ItemGroup>
+
+</Project>

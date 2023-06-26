@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "lR7Ckch40wJ3BxbzM9bJh0QpnoHolF6pVdN/EWPneMXJHkUBcOSSpeeCL52kQaIa3aIi2nLX9PXCH4XS3hnQIw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\sebas\\Downloads\\Psgk.CarInspect.MechanicAppService\\Psgk.CarInspect.MechanicAppService\\Psgk.CarInspect.MechanicAppService.RestSvc\\Psgk.CarInspect.MechanicAppService.RestSvc.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\sebas\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\sebas\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\sebas\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "C:\\Users\\sebas\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "C:\\Users\\sebas\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "C:\\Users\\sebas\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}

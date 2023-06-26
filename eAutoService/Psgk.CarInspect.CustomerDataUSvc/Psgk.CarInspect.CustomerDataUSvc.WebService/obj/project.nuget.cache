@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "tmc7UMnuh2MoWnEkchKzTl6aXQUXAZl6A8z89vodb0ka2zjiqEPaTRE2hCiMbVpf+c/5fTb4l6oyDe7YJoPM7w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Kuba\\Desktop\\eAutoSerwis\\UAIM_2023L_Projekt1_Gradziel_Kosacki_Pietrzak_Szwed\\Psgk.CarInspect.CustomerDataUSvc\\Psgk.CarInspect.CustomerDataUSvc.WebService\\Psgk.CarInspect.CustomerDataUSvc.WebService.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Kuba\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\Kuba\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\Kuba\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "C:\\Users\\Kuba\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "C:\\Users\\Kuba\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "C:\\Users\\Kuba\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}

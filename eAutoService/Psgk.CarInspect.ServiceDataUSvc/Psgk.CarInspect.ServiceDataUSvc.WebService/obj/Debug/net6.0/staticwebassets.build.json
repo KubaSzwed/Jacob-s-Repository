@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "LIWAJ+LZRNfnrLLIzQJ8U8EgK6DcdXDPeOscGaUwn/k=",
+  "Source": "Psgk.CarInspect.ServiceDataUSvc.WebService",
+  "BasePath": "_content/Psgk.CarInspect.ServiceDataUSvc.WebService",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

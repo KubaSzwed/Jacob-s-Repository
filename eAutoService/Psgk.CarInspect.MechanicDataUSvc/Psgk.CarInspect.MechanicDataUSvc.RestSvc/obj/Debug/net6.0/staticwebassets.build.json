@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "ite8CHYf4VA9S48CNimGiEOF/S/IHXLHyFp+c3T6aGA=",
+  "Source": "Psgk.CarInspect.MechanicDataUSvc.RestSvc",
+  "BasePath": "_content/Psgk.CarInspect.MechanicDataUSvc.RestSvc",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

@@ -1,0 +1,82 @@
+[
+  {
+    "Id": 0,
+    "Brand": "Volkswagen",
+    "Model": "Passat",
+    "RegistrationNumber": "WN1111",
+    "ownerId": 0,
+    "mechanicId": 0
+  },
+  {
+    "Id": 1,
+    "Brand": "Volkswagen",
+    "Model": "Golf",
+    "RegistrationNumber": "WN2222",
+    "ownerId": 1,
+    "mechanicId": 1
+  },
+  {
+    "Id": 2,
+    "Brand": "Audi",
+    "Model": "A4",
+    "RegistrationNumber": "WN3333",
+    "ownerId": 2,
+    "mechanicId": 2
+  },
+  {
+    "Id": 3,
+    "Brand": "Seat",
+    "Model": "Leon",
+    "RegistrationNumber": "WN4444",
+    "ownerId": 0,
+    "mechanicId": 0
+  },
+  {
+    "Id": 4,
+    "Brand": "Skoda",
+    "Model": "Superb",
+    "RegistrationNumber": "WN5555",
+    "ownerId": 1,
+    "mechanicId": 1
+  },
+  {
+    "Id": 5,
+    "Brand": "Opel",
+    "Model": "Astra",
+    "RegistrationNumber": "WN6666",
+    "ownerId": 2,
+    "mechanicId": 2
+  },
+  {
+    "Id": 6,
+    "Brand": "BMW",
+    "Model": "E36",
+    "RegistrationNumber": "WN7777",
+    "ownerId": 0,
+    "mechanicId": 2
+  },
+  {
+    "Id": 7,
+    "Brand": "Peugeot",
+    "Model": "406",
+    "RegistrationNumber": "WN8888",
+    "ownerId": 3,
+    "mechanicId": 1
+  },
+  {
+    "Id": 8,
+    "Brand": "Opel",
+    "Model": "Manta",
+    "RegistrationNumber": "WN9999",
+    "ownerId": 4,
+    "mechanicId": 3
+  },
+  {
+    "Id": 9,
+    "Brand": "Opel",
+    "Model": "Vectra",
+    "RegistrationNumber": "WN1234",
+    "ownerId": 1,
+    "mechanicId": 2
+  }
+]

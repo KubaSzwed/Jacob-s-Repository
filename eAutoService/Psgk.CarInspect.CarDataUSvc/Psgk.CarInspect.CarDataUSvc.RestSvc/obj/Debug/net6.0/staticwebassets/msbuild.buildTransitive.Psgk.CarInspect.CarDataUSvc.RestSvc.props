@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\Psgk.CarInspect.CarDataUSvc.RestSvc.props" />
+</Project>

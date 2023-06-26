@@ -1,0 +1,110 @@
+{
+  "version": 3,
+  "targets": {
+    "net6.0": {
+      "Psgk.CarInspect.ServiceDataUSvc.Model/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/Psgk.CarInspect.ServiceDataUSvc.Model.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Psgk.CarInspect.ServiceDataUSvc.Model.dll": {}
+        }
+      },
+      "Psgk.CarInspect.ServiceDataUSvc.RestModel/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/Psgk.CarInspect.ServiceDataUSvc.RestModel.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Psgk.CarInspect.ServiceDataUSvc.RestModel.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Psgk.CarInspect.ServiceDataUSvc.Model/1.0.0": {
+      "type": "project",
+      "path": "../Psgk.CarInspect.ServiceDataUSvc.Model/Psgk.CarInspect.ServiceDataUSvc.Model.csproj",
+      "msbuildProject": "../Psgk.CarInspect.ServiceDataUSvc.Model/Psgk.CarInspect.ServiceDataUSvc.Model.csproj"
+    },
+    "Psgk.CarInspect.ServiceDataUSvc.RestModel/1.0.0": {
+      "type": "project",
+      "path": "../Psgk.CarInspect.ServiceDataUSvc.RestModel/Psgk.CarInspect.ServiceDataUSvc.RestModel.csproj",
+      "msbuildProject": "../Psgk.CarInspect.ServiceDataUSvc.RestModel/Psgk.CarInspect.ServiceDataUSvc.RestModel.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net6.0": [
+      "Psgk.CarInspect.ServiceDataUSvc.Model >= 1.0.0",
+      "Psgk.CarInspect.ServiceDataUSvc.RestModel >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\Kuba\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\Kuba\\Desktop\\eAutoSerwis\\eAutoService\\Psgk.CarInspect.ServiceDataUSvc\\Psgk.CarInspect.ServiceDataUSvc.RestClient\\Psgk.CarInspect.ServiceDataUSvc.RestClient.csproj",
+      "projectName": "Psgk.CarInspect.ServiceDataUSvc.RestClient",
+      "projectPath": "C:\\Users\\Kuba\\Desktop\\eAutoSerwis\\eAutoService\\Psgk.CarInspect.ServiceDataUSvc\\Psgk.CarInspect.ServiceDataUSvc.RestClient\\Psgk.CarInspect.ServiceDataUSvc.RestClient.csproj",
+      "packagesPath": "C:\\Users\\Kuba\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Kuba\\Desktop\\eAutoSerwis\\eAutoService\\Psgk.CarInspect.ServiceDataUSvc\\Psgk.CarInspect.ServiceDataUSvc.RestClient\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\Kuba\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net6.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "projectReferences": {
+            "C:\\Users\\Kuba\\Desktop\\eAutoSerwis\\eAutoService\\Psgk.CarInspect.ServiceDataUSvc\\Psgk.CarInspect.ServiceDataUSvc.Model\\Psgk.CarInspect.ServiceDataUSvc.Model.csproj": {
+              "projectPath": "C:\\Users\\Kuba\\Desktop\\eAutoSerwis\\eAutoService\\Psgk.CarInspect.ServiceDataUSvc\\Psgk.CarInspect.ServiceDataUSvc.Model\\Psgk.CarInspect.ServiceDataUSvc.Model.csproj"
+            },
+            "C:\\Users\\Kuba\\Desktop\\eAutoSerwis\\eAutoService\\Psgk.CarInspect.ServiceDataUSvc\\Psgk.CarInspect.ServiceDataUSvc.RestModel\\Psgk.CarInspect.ServiceDataUSvc.RestModel.csproj": {
+              "projectPath": "C:\\Users\\Kuba\\Desktop\\eAutoSerwis\\eAutoService\\Psgk.CarInspect.ServiceDataUSvc\\Psgk.CarInspect.ServiceDataUSvc.RestModel\\Psgk.CarInspect.ServiceDataUSvc.RestModel.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net6.0": {
+        "targetAlias": "net6.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

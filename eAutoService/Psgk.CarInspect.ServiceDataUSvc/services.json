@@ -1,0 +1,54 @@
+[
+  {
+    "id": 0,
+    "name": "Oil Change",
+    "price": 50,
+    "carid": [
+      1
+    ]
+  },
+  {
+    "id": 1,
+    "name": "Engine Fix",
+    "price": 100,
+    "carid": [
+      1
+    ]
+  },
+  {
+    "id": 2,
+    "name": "Engine switch",
+    "price": 1000,
+    "carid": [
+      2
+    ]
+  },
+  {
+    "id": 3,
+    "name": "Engine check",
+    "price": 100,
+    "carid": [
+      3
+    ]
+  },
+  {
+    "id": 4,
+    "name": "Wheel fix",
+    "price": 32,
+    "carid": [
+      5,
+      3,
+      2
+    ]
+  },
+  {
+    "id": 99,
+    "name": "OilChange",
+    "price": 2138,
+    "carid": [
+      0,
+      2,
+      3
+    ]
+  }
+]

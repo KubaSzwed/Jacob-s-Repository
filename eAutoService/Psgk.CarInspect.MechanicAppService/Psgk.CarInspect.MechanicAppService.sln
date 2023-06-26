@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33502.453
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Psgk.CarInspect.MechanicAppService.Model", "Psgk.CarInspect.MechanicAppService.Model\Psgk.CarInspect.MechanicAppService.Model.csproj", "{0A166E6B-0279-4EFF-86DB-6D5E131EDDEA}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Psgk.CarInspect.MechanicAppService.RestModel", "Psgk.CarInspect.MechanicAppService.RestModel\Psgk.CarInspect.MechanicAppService.RestModel.csproj", "{7A2D1347-6113-4259-A76A-D5C59FD66882}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Psgk.CarInspect.MechanicAppService.RestSvc", "Psgk.CarInspect.MechanicAppService.RestSvc\Psgk.CarInspect.MechanicAppService.RestSvc.csproj", "{05EE2EDD-95C8-4FCB-BA43-5C8DED20FC5D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Psgk.CarInspect.MechanicAppService.RestClient", "Psgk.CarInspect.MechanicAppService.RestClient\Psgk.CarInspect.MechanicAppService.RestClient.csproj", "{2EFCC68F-1A5B-4FF0-9346-22923CE1E639}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0A166E6B-0279-4EFF-86DB-6D5E131EDDEA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0A166E6B-0279-4EFF-86DB-6D5E131EDDEA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0A166E6B-0279-4EFF-86DB-6D5E131EDDEA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0A166E6B-0279-4EFF-86DB-6D5E131EDDEA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7A2D1347-6113-4259-A76A-D5C59FD66882}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7A2D1347-6113-4259-A76A-D5C59FD66882}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7A2D1347-6113-4259-A76A-D5C59FD66882}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7A2D1347-6113-4259-A76A-D5C59FD66882}.Release|Any CPU.Build.0 = Release|Any CPU
+		{05EE2EDD-95C8-4FCB-BA43-5C8DED20FC5D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{05EE2EDD-95C8-4FCB-BA43-5C8DED20FC5D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{05EE2EDD-95C8-4FCB-BA43-5C8DED20FC5D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{05EE2EDD-95C8-4FCB-BA43-5C8DED20FC5D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2EFCC68F-1A5B-4FF0-9346-22923CE1E639}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2EFCC68F-1A5B-4FF0-9346-22923CE1E639}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2EFCC68F-1A5B-4FF0-9346-22923CE1E639}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2EFCC68F-1A5B-4FF0-9346-22923CE1E639}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {139B8FE5-0785-4117-9764-CD60C552771B}
+	EndGlobalSection
+EndGlobal

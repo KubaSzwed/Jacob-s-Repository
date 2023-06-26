@@ -1,0 +1,12 @@
+C:\Users\Ignakos\Downloads\Ssga.CarInspect.ClientAppService-main\Ssga.CarInspect.ClientAppService.Model\bin\Debug\net7.0\Ssga.CarInspect.ClientAppService.Model.deps.json
+C:\Users\Ignakos\Downloads\Ssga.CarInspect.ClientAppService-main\Ssga.CarInspect.ClientAppService.Model\bin\Debug\net7.0\Ssga.CarInspect.ClientAppService.Model.dll
+C:\Users\Ignakos\Downloads\Ssga.CarInspect.ClientAppService-main\Ssga.CarInspect.ClientAppService.Model\bin\Debug\net7.0\Ssga.CarInspect.ClientAppService.Model.pdb
+C:\Users\Ignakos\Downloads\Ssga.CarInspect.ClientAppService-main\Ssga.CarInspect.ClientAppService.Model\obj\Debug\net7.0\Ssga.CarInspect.ClientAppService.Model.csproj.AssemblyReference.cache
+C:\Users\Ignakos\Downloads\Ssga.CarInspect.ClientAppService-main\Ssga.CarInspect.ClientAppService.Model\obj\Debug\net7.0\Ssga.CarInspect.ClientAppService.Model.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ignakos\Downloads\Ssga.CarInspect.ClientAppService-main\Ssga.CarInspect.ClientAppService.Model\obj\Debug\net7.0\Ssga.CarInspect.ClientAppService.Model.AssemblyInfoInputs.cache
+C:\Users\Ignakos\Downloads\Ssga.CarInspect.ClientAppService-main\Ssga.CarInspect.ClientAppService.Model\obj\Debug\net7.0\Ssga.CarInspect.ClientAppService.Model.AssemblyInfo.cs
+C:\Users\Ignakos\Downloads\Ssga.CarInspect.ClientAppService-main\Ssga.CarInspect.ClientAppService.Model\obj\Debug\net7.0\Ssga.CarInspect.ClientAppService.Model.csproj.CoreCompileInputs.cache
+C:\Users\Ignakos\Downloads\Ssga.CarInspect.ClientAppService-main\Ssga.CarInspect.ClientAppService.Model\obj\Debug\net7.0\Ssga.CarInspect.ClientAppService.Model.dll
+C:\Users\Ignakos\Downloads\Ssga.CarInspect.ClientAppService-main\Ssga.CarInspect.ClientAppService.Model\obj\Debug\net7.0\refint\Ssga.CarInspect.ClientAppService.Model.dll
+C:\Users\Ignakos\Downloads\Ssga.CarInspect.ClientAppService-main\Ssga.CarInspect.ClientAppService.Model\obj\Debug\net7.0\Ssga.CarInspect.ClientAppService.Model.pdb
+C:\Users\Ignakos\Downloads\Ssga.CarInspect.ClientAppService-main\Ssga.CarInspect.ClientAppService.Model\obj\Debug\net7.0\ref\Ssga.CarInspect.ClientAppService.Model.dll

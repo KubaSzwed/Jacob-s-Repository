@@ -1,0 +1,242 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Ignakos\\Downloads\\mikrousługaDanychMechanik\\Psgk.CarInspect.MechanicDataUSvc\\Psgk.CarInspect.MechanicDataUSvc.ConsoleTest\\Psgk.CarInspect.MechanicDataUSvc.ConsoleTest.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Ignakos\\Downloads\\mikrousługaDanychMechanik\\Psgk.CarInspect.MechanicDataUSvc\\Psgk.CarInspect.MechanicDataUSvc.ConsoleTest\\Psgk.CarInspect.MechanicDataUSvc.ConsoleTest.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Ignakos\\Downloads\\mikrousługaDanychMechanik\\Psgk.CarInspect.MechanicDataUSvc\\Psgk.CarInspect.MechanicDataUSvc.ConsoleTest\\Psgk.CarInspect.MechanicDataUSvc.ConsoleTest.csproj",
+        "projectName": "Psgk.CarInspect.MechanicDataUSvc.ConsoleTest",
+        "projectPath": "C:\\Users\\Ignakos\\Downloads\\mikrousługaDanychMechanik\\Psgk.CarInspect.MechanicDataUSvc\\Psgk.CarInspect.MechanicDataUSvc.ConsoleTest\\Psgk.CarInspect.MechanicDataUSvc.ConsoleTest.csproj",
+        "packagesPath": "C:\\Users\\Ignakos\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Ignakos\\Downloads\\mikrousługaDanychMechanik\\Psgk.CarInspect.MechanicDataUSvc\\Psgk.CarInspect.MechanicDataUSvc.ConsoleTest\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Ignakos\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\Ignakos\\Downloads\\mikrousługaDanychMechanik\\Psgk.CarInspect.MechanicDataUSvc\\Psgk.CarInspect.MechanicDataUSvc.RestClient\\Psgk.CarInspect.MechanicDataUSvc.RestClient.csproj": {
+                "projectPath": "C:\\Users\\Ignakos\\Downloads\\mikrousługaDanychMechanik\\Psgk.CarInspect.MechanicDataUSvc\\Psgk.CarInspect.MechanicDataUSvc.RestClient\\Psgk.CarInspect.MechanicDataUSvc.RestClient.csproj"
+              },
+              "C:\\Users\\Ignakos\\Downloads\\mikrousługaDanychMechanik\\Psgk.CarInspect.MechanicDataUSvc\\Psgk.CarInspect.MechanicDataUSvc.RestModel\\Psgk.CarInspect.MechanicDataUSvc.RestModel.csproj": {
+                "projectPath": "C:\\Users\\Ignakos\\Downloads\\mikrousługaDanychMechanik\\Psgk.CarInspect.MechanicDataUSvc\\Psgk.CarInspect.MechanicDataUSvc.RestModel\\Psgk.CarInspect.MechanicDataUSvc.RestModel.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Ignakos\\Downloads\\mikrousługaDanychMechanik\\Psgk.CarInspect.MechanicDataUSvc\\Psgk.CarInspect.MechanicDataUSvc.Model\\Psgk.CarInspect.MechanicDataUSvc.Model.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Ignakos\\Downloads\\mikrousługaDanychMechanik\\Psgk.CarInspect.MechanicDataUSvc\\Psgk.CarInspect.MechanicDataUSvc.Model\\Psgk.CarInspect.MechanicDataUSvc.Model.csproj",
+        "projectName": "Psgk.CarInspect.MechanicDataUSvc.Model",
+        "projectPath": "C:\\Users\\Ignakos\\Downloads\\mikrousługaDanychMechanik\\Psgk.CarInspect.MechanicDataUSvc\\Psgk.CarInspect.MechanicDataUSvc.Model\\Psgk.CarInspect.MechanicDataUSvc.Model.csproj",
+        "packagesPath": "C:\\Users\\Ignakos\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Ignakos\\Downloads\\mikrousługaDanychMechanik\\Psgk.CarInspect.MechanicDataUSvc\\Psgk.CarInspect.MechanicDataUSvc.Model\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Ignakos\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Ignakos\\Downloads\\mikrousługaDanychMechanik\\Psgk.CarInspect.MechanicDataUSvc\\Psgk.CarInspect.MechanicDataUSvc.RestClient\\Psgk.CarInspect.MechanicDataUSvc.RestClient.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Ignakos\\Downloads\\mikrousługaDanychMechanik\\Psgk.CarInspect.MechanicDataUSvc\\Psgk.CarInspect.MechanicDataUSvc.RestClient\\Psgk.CarInspect.MechanicDataUSvc.RestClient.csproj",
+        "projectName": "Psgk.CarInspect.MechanicDataUSvc.RestClient",
+        "projectPath": "C:\\Users\\Ignakos\\Downloads\\mikrousługaDanychMechanik\\Psgk.CarInspect.MechanicDataUSvc\\Psgk.CarInspect.MechanicDataUSvc.RestClient\\Psgk.CarInspect.MechanicDataUSvc.RestClient.csproj",
+        "packagesPath": "C:\\Users\\Ignakos\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Ignakos\\Downloads\\mikrousługaDanychMechanik\\Psgk.CarInspect.MechanicDataUSvc\\Psgk.CarInspect.MechanicDataUSvc.RestClient\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Ignakos\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Users\\Ignakos\\Downloads\\mikrousługaDanychMechanik\\Psgk.CarInspect.MechanicDataUSvc\\Psgk.CarInspect.MechanicDataUSvc.Model\\Psgk.CarInspect.MechanicDataUSvc.Model.csproj": {
+                "projectPath": "C:\\Users\\Ignakos\\Downloads\\mikrousługaDanychMechanik\\Psgk.CarInspect.MechanicDataUSvc\\Psgk.CarInspect.MechanicDataUSvc.Model\\Psgk.CarInspect.MechanicDataUSvc.Model.csproj"
+              },
+              "C:\\Users\\Ignakos\\Downloads\\mikrousługaDanychMechanik\\Psgk.CarInspect.MechanicDataUSvc\\Psgk.CarInspect.MechanicDataUSvc.RestModel\\Psgk.CarInspect.MechanicDataUSvc.RestModel.csproj": {
+                "projectPath": "C:\\Users\\Ignakos\\Downloads\\mikrousługaDanychMechanik\\Psgk.CarInspect.MechanicDataUSvc\\Psgk.CarInspect.MechanicDataUSvc.RestModel\\Psgk.CarInspect.MechanicDataUSvc.RestModel.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Users\\Ignakos\\Downloads\\mikrousługaDanychMechanik\\Psgk.CarInspect.MechanicDataUSvc\\Psgk.CarInspect.MechanicDataUSvc.RestModel\\Psgk.CarInspect.MechanicDataUSvc.RestModel.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Ignakos\\Downloads\\mikrousługaDanychMechanik\\Psgk.CarInspect.MechanicDataUSvc\\Psgk.CarInspect.MechanicDataUSvc.RestModel\\Psgk.CarInspect.MechanicDataUSvc.RestModel.csproj",
+        "projectName": "Psgk.CarInspect.MechanicDataUSvc.RestModel",
+        "projectPath": "C:\\Users\\Ignakos\\Downloads\\mikrousługaDanychMechanik\\Psgk.CarInspect.MechanicDataUSvc\\Psgk.CarInspect.MechanicDataUSvc.RestModel\\Psgk.CarInspect.MechanicDataUSvc.RestModel.csproj",
+        "packagesPath": "C:\\Users\\Ignakos\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Ignakos\\Downloads\\mikrousługaDanychMechanik\\Psgk.CarInspect.MechanicDataUSvc\\Psgk.CarInspect.MechanicDataUSvc.RestModel\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Ignakos\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

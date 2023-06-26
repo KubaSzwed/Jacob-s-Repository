@@ -1,0 +1,47 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Psgk.CarInspect.ServiceDataUSvc.RestClient/1.0.0": {
+        "dependencies": {
+          "Psgk.CarInspect.ServiceDataUSvc.Model": "1.0.0",
+          "Psgk.CarInspect.ServiceDataUSvc.RestModel": "1.0.0"
+        },
+        "runtime": {
+          "Psgk.CarInspect.ServiceDataUSvc.RestClient.dll": {}
+        }
+      },
+      "Psgk.CarInspect.ServiceDataUSvc.Model/1.0.0": {
+        "runtime": {
+          "Psgk.CarInspect.ServiceDataUSvc.Model.dll": {}
+        }
+      },
+      "Psgk.CarInspect.ServiceDataUSvc.RestModel/1.0.0": {
+        "runtime": {
+          "Psgk.CarInspect.ServiceDataUSvc.RestModel.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Psgk.CarInspect.ServiceDataUSvc.RestClient/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Psgk.CarInspect.ServiceDataUSvc.Model/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Psgk.CarInspect.ServiceDataUSvc.RestModel/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
